@@ -22,7 +22,7 @@ Information about the event will be displayed in a non-particular way, not direc
 By interacting online with the microphones, the sound is projected back in a different location of the space. As such, people from StudioX will feel the presence of the virtual visitors.
 
 
-![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Diagrams-01.jpg)
+![Image](https://github.com/site2site/The-Voice-of-Studio-X/blob/master/Images/Diagrams-01.jpg)
 
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Diagrams-02.jpg)
 

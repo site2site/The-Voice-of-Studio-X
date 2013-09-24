@@ -1,9 +1,4 @@
----
-layout: base
-style: lecture
-title: Site to Site | Presentation
-menu: project
-project: The Voice of Studio X
+##The Voice of Studio X
 ---
 
 An interactive online platform providing a non-material, imaginative experience of a real time physical context.

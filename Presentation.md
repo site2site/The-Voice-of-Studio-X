@@ -14,12 +14,13 @@ specific for the different sequences of the space.
 As one virtually navigates through the space with their mouse, the sound changes as they move from one microphone area to the next with a gradual transition from one to the other
 As one hovers over a microphone, information about that particular area will come up.
 
+
+![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Diagram1.jpg)
+
 In the second porposal we place the microphones at different hights in different areas of the room to record natural noises such as walking, stamping, chewing, talking etc.
 Information about the event will be displayed in a non-particular way, not directly related to the sound.
 By interacting online with the microphones, the sound is projected back in a different location of the space. As such, people from StudioX will feel the presence of the virtual visitors.
 
-
-![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Diagram1.jpg)
 
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/diagram2.jpg)
 

@@ -1,4 +1,6 @@
-content-1
+The Voice of Studio X
 =========
 
-Content group 1 project
+An interactive online platform providing a non-material, imaginative experience of a real time physical context.
+
+

@@ -1,6 +1,6 @@
 ##The Voice of Studio X
 ---
-![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/zimoun_woodwoorms_400px.jpg
+![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/zimoun_woodwoorms_400px.jpg)
 [here](http://www.zimoun.net/works.html)
 
 An interactive online platform providing a non-material, imaginative experience of a real time physical context.
@@ -25,3 +25,9 @@ By interacting online with the microphones, the sound is projected back in a dif
 
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Website.jpg)
 
+##Parts
+   Microphones
+   RaspberryPi
+   Arduino
+   Tumblr (computer)
+   

@@ -35,3 +35,11 @@ By interacting online with the microphones, the sound is projected back in a dif
    Tumblr (computer) --> 
    Speaker
    
+![Image](http://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg)
+![Image](http://3.bp.blogspot.com/-7ZukwJvElNQ/UX1sNJenVII/AAAAAAAAAG0/hzXvQZDnt3I/s1600/MIC.jpg)
+![Image](http://www.stagesuperstore.co.uk/ekmps/shops/stagesuperstore/images/pro45-cardioid-condenser-hanging-microphone-1162-p.jpg)
+![Image](http://upload.wikimedia.org/wikipedia/commons/4/45/Raspberry_Pi_-_Model_A.jpg)
+![Image](http://g-ecx.images-amazon.com/images/G/01/electronics/detail-page/PLMCA76_4_speakers.jpg)
+
+
+   

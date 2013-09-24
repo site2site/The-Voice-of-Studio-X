@@ -15,20 +15,23 @@ As one virtually navigates through the space with their mouse, the sound changes
 As one hovers over a microphone, information about that particular area will come up.
 
 
-![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Diagram1.jpg)
+![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Diagram1-01.jpg)
 
 In the second porposal we place the microphones at different hights in different areas of the room to record natural noises such as walking, stamping, chewing, talking etc.
 Information about the event will be displayed in a non-particular way, not directly related to the sound.
 By interacting online with the microphones, the sound is projected back in a different location of the space. As such, people from StudioX will feel the presence of the virtual visitors.
 
 
-![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/diagram2.jpg)
+![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Diagrams-01.jpg)
+
+![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Diagrams-02.jpg)
 
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Website.jpg)
 
 ##Parts
-   Microphones
-   RaspberryPi
-   Arduino
-   Tumblr (computer)
+   Microphones --> 
+   Arduino -->
+   RaspberryPi -->
+   Tumblr (computer) --> 
+   Speaker
    

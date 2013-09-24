@@ -11,7 +11,7 @@ We propose two different ways of understanding space through sound.
 
 In the first proposal the microphones will be placed at equal intervals along the length of the space. They will record sounds 
 specific for the different sequences of the space.
-As one virtually navigates through the space with their mouse, the sound changes as they move from one microphone area to the next with a gradual transition from one to the other
+As one virtually navigates through the space with their mouse, the sound changes as they move from one microphone area to the next with a gradual transition from one to the other.
 As one hovers over a microphone, information about that particular area will come up.
 
 

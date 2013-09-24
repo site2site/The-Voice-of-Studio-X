@@ -32,8 +32,7 @@ By interacting online with the microphones, the sound is projected back in a dif
    Microphones --> 
    Arduino -->
    RaspberryPi -->
-   Tumblr (computer) --> 
-   Speaker
+   Speakers
    
 ![Image](http://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg)
 ![Image](http://3.bp.blogspot.com/-7ZukwJvElNQ/UX1sNJenVII/AAAAAAAAAG0/hzXvQZDnt3I/s1600/MIC.jpg)

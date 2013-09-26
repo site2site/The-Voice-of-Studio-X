@@ -62,7 +62,8 @@ By interacting online with the microphones, the sound is projected back in a dif
 
 
 
-###Spatial differentiation through sound - microphones and speakers turn on and off according to the level of privacy defined by the calendar 
+###Spatial differentiation through sound 
+####Microphones and speakers turn on and off according to the level of privacy defined by the calendar 
 
 
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/CALENDAR_MOVIE.gif)

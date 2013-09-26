@@ -56,7 +56,7 @@ By interacting online with the microphones, the sound is projected back in a dif
 
 
 ##Event Based Zoning Within The Studio X
-####The 'design tool' here becomes the calendar
+####The calendar - as a primary design tool - curates transparency
 
 
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Screen%20Shot%202013-09-26%20at%2012.45.39%20AM.png)

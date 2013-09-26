@@ -28,6 +28,8 @@ By interacting online with the microphones, the sound is projected back in a dif
 
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Sound-DIAGRAM.gif)
 
+Interactive Website
+
 
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Website.jpg)
 

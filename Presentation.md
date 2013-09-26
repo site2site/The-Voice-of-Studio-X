@@ -27,26 +27,27 @@ By interacting online with the microphones, the sound is projected back in a dif
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Diagrams-01.jpg)
 
 
-###System 
+##System 
 
 
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Diagrams-02.jpg)
 
 
-###Cycle
+##Cycle
 
 
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Sound-DIAGRAM.gif)
 
 
 
-###Interactive Website
+##Interactive Website
 
 
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Website.jpg)
 
 
-###Public Transparency - Events that are available for everyone
+##Public Transparency 
+####Events that are available for everyone
 
 
 
@@ -54,7 +55,7 @@ By interacting online with the microphones, the sound is projected back in a dif
 
 
 
-###Event-based zoning within the Studio X
+##Event Based Zoning Within The Studio X
 
 
 
@@ -62,7 +63,7 @@ By interacting online with the microphones, the sound is projected back in a dif
 
 
 
-###Spatial differentiation through sound 
+##Spatial Differentiation Through Sound 
 ####Microphones and speakers turn on and off according to the level of privacy defined by the calendar 
 
 

@@ -29,8 +29,11 @@ By interacting online with the microphones, the sound is projected back in a dif
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Sound-DIAGRAM.gif)
 
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Website.jpg)
+![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Screen%20Shot%202013-09-26%20at%209.22.17%20AM.png)
+![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Screen%20Shot%202013-09-26%20at%2012.45.39%20AM.png)
+![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/CALENDAR_MOVIE.gif)
+![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/TRANSPARENCY_MOVIE.gif)
 
-<object width="500" height="281"><param name="movie" value="//www.youtube.com/v/1QztwBzcVaw?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/1QztwBzcVaw?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="500" height="281" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 ##Parts
    Microphones --> 

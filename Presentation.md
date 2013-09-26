@@ -31,19 +31,17 @@ By interacting online with the microphones, the sound is projected back in a dif
 
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Website.jpg)
 
-#Public Transparency - Events that are available for everyone
+Public Transparency - Events that are available for everyone
 
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Screen%20Shot%202013-09-26%20at%209.22.17%20AM.png)
 
-#Event-based zoning within the Studio X
+Event-based (calendar) zoning within the Studio X
 
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Screen%20Shot%202013-09-26%20at%2012.45.39%20AM.png)
 
-#'Transparency defined by sound-control
+'Transparency' defined by sound-control - microphones and speakers turn on and off according to the level of privacy defined by the calendar 
 
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/CALENDAR_MOVIE.gif)
-
-
 ![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/TRANSPARENCY_MOVIE.gif)
 
 

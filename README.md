@@ -18,8 +18,8 @@ Information about the event will be displayed in a non-particular way, not direc
 By interacting online with the microphones, the sound is projected back in a different location of the space. As such, people from StudioX will feel the presence of the virtual visitors.
 
 
-
-
+This voice-space can somewhat change the way we get information in Internet that is always from page to page (which is 'flat'). The space with different voice information has the possibility to create a sense of 'depth' in the platform. If there can be 3-D grid of microphones set in the space, how it is presented and how people interact with it can be interesting to work on (Maybe can be like a 'Google street' that can zoom in-out, move with the different voice information presented). Or maybe there is a better way to present the 3-D information.
+@yw2565
 
 
 

@@ -4,3 +4,4 @@ http://www.iannix.org/en/whatisiannix/
 http://www.iannix.org/en/whatisiannix/
 http://www.abitare.it/en/harvard-logbook/the-fall-from-the-plateau/
 http://sleepjunkies.com/features/sleep-soundly-with-white-noise/
+http://en.wikipedia.org/wiki/Sound_masking

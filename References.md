@@ -6,3 +6,9 @@ http://www.abitare.it/en/harvard-logbook/the-fall-from-the-plateau/
 http://sleepjunkies.com/features/sleep-soundly-with-white-noise/
 http://en.wikipedia.org/wiki/Sound_masking
 http://wfae.proscenia.net/journal/scape_1.pdf
+http://www.psy.cmu.edu/~scohen/noisechap84.pdf
+http://www.bbc.co.uk/blogs/radio4/posts/Noise-A-Human-History-Week-6-A-world-full-of-noise
+http://en.wikipedia.org/wiki/Colors_of_noise
+http://mikegoldsmith.weebly.com/history-of-noise.html
+http://www.psychlotron.org.uk/resources/environmental/A2_OCR_env_noisesocialbeh.pdf
+http://wfae.proscenia.net/journal/index.html

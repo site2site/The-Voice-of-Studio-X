@@ -20,6 +20,12 @@ By interacting online with the microphones, the sound is projected back in a dif
 
 
 
+@dinamahmoud Response
+ 
+ I think the presentation for this project went really well, the studio X team seemed to appreciate the abstract objective of this proposal.
+ This can be heightened by using distortion, time lag, and other scrambling techniques to add further ambiguity to the sound that is projected into the space.
+ This will also serve as more efficient 'white noise' which is a feature most of the studio X team seemed to be keen on.
+ Using the microphones set up by the studio X analytics team.
 
 
 
